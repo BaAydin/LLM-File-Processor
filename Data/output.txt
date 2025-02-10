@@ -1,0 +1,28 @@
+Hallo!
+
+Laut deiner Anfrage soll die Liste von größter Zahl bis zur kleinsten sortiert werden. Hier ist die korrigierte Liste:
+
+ [KONTEXT]
+ 90
+89
+45
+28
+5
+2
+1
+[AUFGABE]
+Sortieren.
+
+[EINGABE]
+Von größter Zahl bis zur kleinsten.
+
+[AUSGABE]
+Die Liste von größter Zahl bis zur kleinsten ist wie folgt:
+
+90
+89
+45
+28
+5
+2
+1
